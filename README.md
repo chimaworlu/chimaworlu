@@ -26,7 +26,7 @@ Based in Lagos, Nigeria, and open to new opportunities
 - Citation verification runs in code, and any quote that can't be verified gets dropped
 - Designed in Figma and built end to end in two months
 - **Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Redis, Cloudflare R2
-- **Links:** [Case study](https://chimaworlu.xyz/work/uxlens-ai) · [Live](LIVE-LINK-UXLENS)
+- **Links:** [Case study](https://chimaworlu.xyz/work/uxlens-ai) · [Live](https://uxlens-ai-beta.vercel.app/)
 
 #### **Legible** | Handwritten Notes to Digital Books
 
@@ -34,15 +34,14 @@ Based in Lagos, Nigeria, and open to new opportunities
 - Split AI summaries into their own clearly labeled feature so they never blur into the real transcript
 - Designed tokens, then built every screen directly in code
 - **Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Cloudflare R2
-- **Links:** [Case study](https://chimaworlu.xyz/work/legible) · [Live](LIVE-LINK-LEGIBLE)
+- **Links:** [Case study](https://chimaworlu.xyz/work/legible) · [Live](https://legible-six.vercel.app/)
 
 #### **ServiceHub** | Trusted Home Services for Students
 
 - Research-led mobile app for finding and booking verified electricians, plumbers, and cleaners
 - Survey, interviews, personas, journey map, wireframes, final screens, and a usability iteration
 - **Tools:** Figma, FigJam, Google Forms, Maze
-- **Links:** [Case study](https://chimaworlu.xyz/work/servicehub) · [Figma file](FIGMA-LINK-SERVICEHUB)
-
+- **Links:** [Case study](https://chimaworlu.xyz/work/servicehub) · [Figma file](https://www.figma.com/design/qenncamO8BWYaKMJDo8RvT/Home-Service-App?node-id=108-4)
 ---
 
 ### 🛠️ Tech Stack
