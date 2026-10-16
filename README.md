@@ -49,24 +49,23 @@ Based in Lagos, Nigeria, and open to new opportunities
 
 **Design**
 
-[![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg "Figma")](https://www.figma.com)
+<a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma" /></a>
 
 **Frontend**
 
-[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React")](https://react.dev)
-[![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")](https://nextjs.org)
-[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg "TypeScript")](https://www.typescriptlang.org)
-[![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg "Tailwind CSS")](https://tailwindcss.com)
+<a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" /></a>
+<a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" /></a>
+<a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" /></a>
 
 **Backend & Databases**
 
-[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg "PostgreSQL")](https://www.postgresql.org)
-[![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg "Prisma")](https://www.prisma.io)
-[![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg "Redis")](https://redis.io)
+<a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://www.prisma.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" title="Prisma" /></a>
+<a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" /></a>
 
 **AI-Assisted Workflow**  
 Claude Code · Claude · OpenCode · Antigravity IDE · Figma AI
-
 ---
 
 ### 🎓 Experience
