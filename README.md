@@ -78,7 +78,7 @@ Claude Code · Claude · OpenCode · Antigravity IDE · Figma AI
 - Designed account management: primary wallet address (change, delete, switch network), legal name change, saved beneficiaries, and subscription reminders
 - Used customer feedback and support conversations to find the problems users hit most often
 
-**UX/UI Designer (Freelance) - Squama Marketing** | *March 2026 - Present*
+**Product Designer (Freelance) - Squama Marketing** | *March 2026 - Present*
 
 - Designed responsive websites for client businesses, with more than 3 now live
 - Applied WCAG accessibility standards to each web design
